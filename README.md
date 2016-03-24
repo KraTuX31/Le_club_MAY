@@ -7,3 +7,11 @@ Les	enseignants	et	les	étudiants	doivent	trouver	des	partenaires,	des	créneaux
 - Florent BERBIE
 - Antoine de ROQUEMAUREL
 - Thomas ZORANTO
+
+## Références
+- projet interessant: https://github.com/IRIT-SMAC/agent-tooling 
+  - agent-logging (trace (log) des agents)
+  - agent-messaging (communication entre agents)
+  - agent-scheduling (exécution des agents)
+  - agent-plot (affichage de graphes) 
+- http://moodle.univ-tlse3.fr/course/view.php?id=2113
