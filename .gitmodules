@@ -1,0 +1,3 @@
+[submodule "ressources/help/agent-tooling"]
+	path = ressources/help/agent-tooling
+	url = git@github.com:KraTuX31/agent-tooling.git
